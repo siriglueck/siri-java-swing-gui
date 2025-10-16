@@ -17,6 +17,8 @@ public class MyFrame extends JFrame {
 
         //this.getContentPane().setBackground(new Color(123,50,250)); // change color of background
 
+        // ## JButton 3/3
+        /*
         JButton button1 = new JButton("btn1");
         button1.setBounds(0,50,100,20);
         button1.addActionListener(e -> System.out.println("btn1 clicked!"));
@@ -26,5 +28,7 @@ public class MyFrame extends JFrame {
         button2.setBounds(120,50,100,20);
         button2.addActionListener(e -> System.out.println("btn2 clicked!"));
         this.add(button2);
+        */
+
     }
 }
